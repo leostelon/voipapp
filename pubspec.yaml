@@ -1,0 +1,60 @@
+name: app
+description: A new Flutter project.
+
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+  flutter_spinkit: ^4.1.2+1
+  fluttertoast: ^7.1.5
+  http: ^0.12.2
+  wc_form_validators: ^0.1.1
+  provider: ^4.3.2+2
+  web_socket_channel: ^1.1.0
+  flutter_secure_storage: ^3.3.5
+  firebase_core: ^0.5.0
+  firebase_auth: ^0.18.4+1
+  image_picker: ^0.6.7+17
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png
+    - assets/larw.ico
+    - assets/drawer.ico
+    - assets/home.ico
+    - assets/calls.ico
+    - assets/channel.ico
+    - assets/contact.ico
+    - assets/fav.ico
+    - assets/group.ico
+    - assets/invite.ico
+    - assets/settings.ico
+    - assets/
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

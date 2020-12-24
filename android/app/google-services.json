@@ -1,0 +1,55 @@
+{
+	"project_info": {
+		"project_number": "637830804609",
+		"project_id": "voipdv",
+		"storage_bucket": "voipdv.appspot.com"
+	},
+	"client": [
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:637830804609:android:ea357f099766e03d918980",
+				"android_client_info": {
+					"package_name": "com.datavivvoip.app"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "637830804609-5l5p8djam7vgg6sfg7afftl3o4fuctb6.apps.googleusercontent.com",
+					"client_type": 1,
+					"android_info": {
+						"package_name": "com.datavivvoip.app",
+						"certificate_hash": "aed4419d9b3c1c90c78c12dd37a62f37b0d81642"
+					}
+				},
+				{
+					"client_id": "637830804609-itcinpup8e77o303eoio4okvr0o8aeku.apps.googleusercontent.com",
+					"client_type": 1,
+					"android_info": {
+						"package_name": "com.datavivvoip.app",
+						"certificate_hash": "dd7d3469e6a922b63ffafc0ab53ed11a784b7e86"
+					}
+				},
+				{
+					"client_id": "637830804609-t60jtu5c56h48vc4qa6qlmesn7akfrsb.apps.googleusercontent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AIzaSyCGXLbl5ZNkAmHzNQTpDzq_lFGgxyz6kHQ"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+					"other_platform_oauth_client": [
+						{
+							"client_id": "637830804609-t60jtu5c56h48vc4qa6qlmesn7akfrsb.apps.googleusercontent.com",
+							"client_type": 3
+						}
+					]
+				}
+			}
+		}
+	],
+	"configuration_version": "1"
+}
